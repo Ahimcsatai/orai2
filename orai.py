@@ -4,3 +4,5 @@ print("A maga életkora ",b,"és az ön neve ",a)
 b=int
 print("Ilyenkor született",2023-b)
 s=int(input("milyen indős anyukád? "))
+g=int(input("milyen indős apukád? "))
+
