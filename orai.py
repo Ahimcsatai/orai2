@@ -3,4 +3,4 @@ b=input("Hány éves vagy? ")
 print("A maga életkora ",b,"és az ön neve ",a)
 b=int
 print("Ilyenkor született",2023-b)
-A=int(input("milyen indős anyukád? "))
+s=int(input("milyen indős anyukád? "))
