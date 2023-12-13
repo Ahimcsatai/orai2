@@ -5,4 +5,4 @@ b=int
 print("Ilyenkor született",2023-b)
 s=int(input("milyen indős anyukád? "))
 g=int(input("milyen indős apukád? "))
-
+print("anyukád ",s-b," volt mikor megszülettél")
